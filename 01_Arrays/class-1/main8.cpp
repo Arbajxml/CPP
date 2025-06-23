@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//Print extreme Array
+
 void extremeArray(int arr[], int size) {
     int left = 0;
     int right = size - 1;
