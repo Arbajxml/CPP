@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Sort zero and one
+
 void sortZeroOne(int arr[], int n) {
     int zeroCount = 0;
     int oneCount = 0;
