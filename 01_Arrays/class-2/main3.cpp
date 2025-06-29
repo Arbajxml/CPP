@@ -3,6 +3,9 @@ using namespace std;
 
 // Sort zero and one
 
+
+// Sorts zeros and ones
+
 void sortZeroOne(int arr[], int n) {
     int zeroCount = 0;
     int oneCount = 0;
